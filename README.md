@@ -15,7 +15,11 @@ Welcome to my portfolio, where I showcase my projects and achievements!
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+- ** **
+- ** **
+- ** **
+- ** **
+- ** **
 
 ### 🛠️ Tools & Technologies
 
