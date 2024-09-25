@@ -1,6 +1,10 @@
-# 🙋🏻‍♀️ Introducing Myself
+## 🙋🏻‍♀️ Introducing Myself
 
-Hello, I'm Jessica. A passionate data professional with expertise in data analysis, reporting, and visualization.
+Hello! I’m Jessica, a data scientist with expertise in digital marketing and e-commerce. I enjoy using my data analysis skills to uncover valuable insights and enhance performance in e-commerce and retail marketing. 
+
+I am detail-oriented, strategic, creative, and curious, which forms a solid foundation for my work as a data scientist. I aim to apply data science to develop effective solutions that drive success in marketing contexts.
+
+Welcome to my portfolio, where I showcase my projects and achievements!
 
 ## 💼 Expertise
 - **Data Analysis:** Proficient in analyzing complex datasets to identify trends and patterns.
